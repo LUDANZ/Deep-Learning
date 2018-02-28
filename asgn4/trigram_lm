@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# project 4
+# trigram_lm
+
+train=$1
+dev=$2
+
+# Fill in the empty line below with the command or commands that run your
+# program.
+# For example, you could pass this script's arguments to your program as:
+#   python <myprogram> $train $dev
+#
+# with <myprogram> replaced with your program name.
+#
+#   If you are having difficulty getting the script to run your program, talk
+# to the TAs.
+##############################################################################
+python assignment4.py $train $dev
+##############################################################################
+# Run this script with the command
+#
+#   ./trigram_lm path-to-train.txt path-to-dev.txt
+
+

@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# project 6
+# attention seq2seq_mt
+
+french_train=$1
+english_train=$2
+french_test=$3
+english_test=$4
+
+# Fill in the empty line below with the command or commands that run your
+# program.
+# For example, you could pass this script's arguments to your program as:
+python assignment6_attention.py $french_train $english_train $french_test $english_test
+#
+# with <myprogram> replaced with your program name.
+#
+#   If you are having difficulty getting the script to run your program, talk
+# to the TAs.
+##############################################################################
+
+##############################################################################
+# Run this script with the command
+#
+#   ./attn_seq2seq path-to-french-train.txt path-to-english-train.txt path-to-french-test.txt path-to-english-test.txt 
+

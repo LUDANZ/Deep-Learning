@@ -1,17 +1,17 @@
-#Assignment 4: Trigram Language Model
+# Assignment 4: Trigram Language Model
 
-##Goal:
+## Goal:
 
 We will be building a Trigram Language Model with Word Embeddings for language modeling the Penn Treebank Corpus.
 
-##Data:
+## Data:
 
 You can find the data for this task in the following location:
 
 Training Data: /course/cs1470/asgn/trigram_lm/train.txt
 Development Data: /course/cs1470/trigram_lm/dev.txt
 
-##Steps:
+## Steps:
 
 Preprocess the Train and Development Data, building the vocabulary, tokenizing, etc.
 Set up placeholders for inputs and outputs.
@@ -27,7 +27,7 @@ Use an Adam Optimizer [tf.train.AdamOptimizer]
 Train your model (details below).
 Print the final perplexity of the development set.
 
-##Notes:
+## Notes:
 
 Train for 1 epoch, with a batch size of 20. You must abide by this - we will not grade any submission that uses an alternate batch size or learning rate.
 

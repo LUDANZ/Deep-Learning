@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# project 8
+
+# Fill in the empty line below with the command or commands that run your
+# program.
+#
+#   If you are having difficulty getting the script to run your program, talk
+# to the TAs.
+##############################################################################
+python assignment8.py
+##############################################################################
+# Run this script with the command
+#
+# ./a2c

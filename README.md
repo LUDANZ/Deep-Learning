@@ -1,1 +1,1 @@
-# CSCI2470
+Assignments of the course
